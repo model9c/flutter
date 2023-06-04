@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:tomato_record/utils/logger.dart';
+import 'package:tamoi/utils/logger.dart';
 
 class UserNotifier extends ChangeNotifier {
   User? _user;

@@ -1,8 +1,8 @@
 import 'package:extended_image/extended_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:tomato_record/constants/common_size.dart';
-import 'package:tomato_record/utils/logger.dart';
+import 'package:tamoi/constants/common_size.dart';
+import 'package:tamoi/utils/logger.dart';
 
 class ItemsPage extends StatelessWidget {
   const ItemsPage({Key? key}) : super(key: key);

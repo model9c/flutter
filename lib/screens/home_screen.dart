@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:tomato_record/screens/home/items_page.dart';
-import 'package:tomato_record/screens/home/webview_map.dart';
-import 'package:tomato_record/states/user_provider.dart';
-import 'package:tomato_record/utils/logger.dart';
+import 'package:tamoi/screens/home/items_page.dart';
+import 'package:tamoi/screens/home/webview_map.dart';
+import 'package:tamoi/states/user_provider.dart';
+import 'package:tamoi/utils/logger.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

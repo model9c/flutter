@@ -1,4 +1,4 @@
-# tomato_record
+# tamoi
 
 A new Flutter project.
 

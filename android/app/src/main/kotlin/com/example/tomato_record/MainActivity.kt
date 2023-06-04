@@ -1,4 +1,4 @@
-package com.example.tomato_record
+package com.example.tamoi
 
 import io.flutter.embedding.android.FlutterActivity
 

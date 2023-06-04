@@ -5,9 +5,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_multi_formatter/flutter_multi_formatter.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:tomato_record/constants/common_size.dart';
-import 'package:tomato_record/states/user_provider.dart';
-import 'package:tomato_record/utils/logger.dart';
+import 'package:tamoi/constants/common_size.dart';
+import 'package:tamoi/states/user_provider.dart';
+import 'package:tamoi/utils/logger.dart';
 
 class AuthPage extends StatefulWidget {
   AuthPage({Key? key}) : super(key: key);

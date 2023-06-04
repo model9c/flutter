@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tomato_record/utils/logger.dart';
+import 'package:tamoi/utils/logger.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 class WebviewMap extends StatefulWidget {

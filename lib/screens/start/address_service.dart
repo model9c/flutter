@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
-import 'package:tomato_record/constants/keys.dart';
-import 'package:tomato_record/data/AddressModel.dart';
-import 'package:tomato_record/data/AddressModelGeo.dart';
-import 'package:tomato_record/utils/logger.dart';
+import 'package:tamoi/constants/keys.dart';
+import 'package:tamoi/data/AddressModel.dart';
+import 'package:tamoi/data/AddressModelGeo.dart';
+import 'package:tamoi/utils/logger.dart';
 
 class AddressService {
   void dioTest() async {

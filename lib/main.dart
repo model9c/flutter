@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:provider/provider.dart';
-import 'package:tomato_record/router/locations.dart';
-import 'package:tomato_record/screens/start_screen.dart';
-import 'package:tomato_record/screens/home_screen.dart';
-import 'package:tomato_record/screens/splash_screen.dart';
-import 'package:tomato_record/states/user_notifier.dart';
-import 'package:tomato_record/states/user_provider.dart';
-import 'package:tomato_record/utils/logger.dart';
+import 'package:tamoi/router/locations.dart';
+import 'package:tamoi/screens/start_screen.dart';
+import 'package:tamoi/screens/home_screen.dart';
+import 'package:tamoi/screens/splash_screen.dart';
+import 'package:tamoi/states/user_notifier.dart';
+import 'package:tamoi/states/user_provider.dart';
+import 'package:tamoi/utils/logger.dart';
 
 final UserNotifier _userNotifier = UserNotifier();
 

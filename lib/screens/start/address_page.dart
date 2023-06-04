@@ -2,11 +2,11 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:location/location.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:tomato_record/constants/common_size.dart';
-import 'package:tomato_record/data/AddressModel.dart';
-import 'package:tomato_record/data/AddressModelGeo.dart';
-import 'package:tomato_record/screens/start/address_service.dart';
-import 'package:tomato_record/utils/logger.dart';
+import 'package:tamoi/constants/common_size.dart';
+import 'package:tamoi/data/AddressModel.dart';
+import 'package:tamoi/data/AddressModelGeo.dart';
+import 'package:tamoi/screens/start/address_service.dart';
+import 'package:tamoi/utils/logger.dart';
 import 'package:provider/provider.dart';
 
 class AddressPage extends StatefulWidget {
